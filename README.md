@@ -40,7 +40,7 @@ https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-usin
   - Click "Danish (Windows)"
 - Remove the language that was already there
 
-### "The dates are wrong"
+### "The dates etc. are wrong"
 
 - Go to Settings
 - Go to Language and Region
@@ -48,6 +48,10 @@ https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-usin
 
 ### "When I open my virtual machine, the screen is black"
 
-- Go to Settings
+- Go to VirtualBox Launcher
+- Choose the virtual machine not working in the list on the left
+- Click Settings 
 - Go to Display
 - Set Video Memory to a larger value (e.g. 100MB)
+
+
