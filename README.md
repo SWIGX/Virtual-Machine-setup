@@ -3,7 +3,7 @@
 
 This repository serves as a guide on how to create an Ubuntu virtual machine for development purposes
 
-## Downloads
+## 1. Downloads
 
 ### Download VirtualBox
 
@@ -15,7 +15,7 @@ _Choose the LTS version of Ubuntu_
 
 https://ubuntu.com/download/desktop
 
-## Tutorial
+## 2. Tutorial
 
 Follow below tutorial to setup the virtual machine.
 
